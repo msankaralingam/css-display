@@ -1,0 +1,8 @@
+div p{
+	
+	background-color:red;
+	width:150px;
+	padding:15px;
+	border:1px solid black;
+	display:inline-block;
+}
